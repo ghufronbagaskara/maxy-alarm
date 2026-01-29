@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 
 const useAlarmEngine = (alarms, onAlarmTrigger) => {
-  const [currentTime, setCurrentTime] = useState;
+  const [currentTime, setCurrentTime] = useState("");
   const triggeredAlarmsRef = useRef(new Set());
 
   useEffect(() => {
