@@ -105,7 +105,7 @@ const Alarm = () => {
       {/* header */}
       <header className="sticky top-0 bg-dark-bg/95 backdrop-blur-sm border-b border-dark-border z-30">
         <div className="max-w-2xl mx-auto px-6 py-4 flex items-center justify-between">
-          <h1 className="text-2xl font-medium text-dark-text">Alarm</h1>
+          <h1 className="text-2xl font-medium text-dark-text">Maxy Alarm🔥⏰</h1>
           <div className="text-dark-textSecondary text-sm font-mono">
             {currentTime}
           </div>

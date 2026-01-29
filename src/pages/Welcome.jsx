@@ -39,7 +39,7 @@ const Welcome = () => {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="text-7xl sm:text-8xl font-bold text-dark-text mb-6 animate-glow"
         >
-          Alarm.
+          Maxy Alarm🔥⏰
         </motion.h1>
 
         <motion.div
