@@ -10,7 +10,7 @@ A modern and minimalist web alarm application built with React + Vite, featuring
 - **Time Management** - Create, edit, and toggle alarms easily
 - **Smooth Animations** - Framer Motion powered transitions and effects
 - **Mobile-First Design** - Responsive Layout that works on all devices
-- **Audio Notifications** = Built in alarm sound with volume control
+- **Audio Notifications** - Built in alarm sound with volume control
 - **No Backend Required** - Fully client side application
 
 ## Tech Stack
@@ -100,4 +100,6 @@ This project is open source and available for personal and commercial use.
 
 Contributions, issues, and feature requests are welcome!
 
+
+**https://maxy-alarm.vercel.app/**
 **Built with 🔥 for Maxy Academy**
